@@ -1,4 +1,4 @@
-# Detection-of-counterfeit-id-documents-and-currencies-with-MicroNIR
+# Detection of counterfeit id documents and currencies with MicroNIR
 Forensic detection of counterfeit id documents and currencies documents with MicroNIR. Master's thesis at the University of Lausanne
 
 This project is being carried out as part of the final exam of the University of Lausanne, with a view to obtaining the Master of Law in Legal issues,
