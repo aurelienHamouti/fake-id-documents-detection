@@ -7,8 +7,6 @@ Crime and Security of lnformation Technologies
 ## Objectives
 The objective of the project is to explore the possibility to detect counterfeit id documents et currencies papers with a infra-red spectrometer (MicroNIR). This forensic software analyses and detects an anomaly in the signal produced by the MicroNIR.
 
-## Objectives
-
 ## forensic methodologies
 
 ## Cautions
