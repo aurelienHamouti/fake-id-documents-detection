@@ -1,4 +1,4 @@
-# Fake id documents and currencies detection with MicroNIR
+# Fake id documents detection with MicroNIR
 
 Forensic detection of counterfeit id documents documents with MicroNIR. Master's thesis at the University of Lausanne
 
