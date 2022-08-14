@@ -1,12 +1,12 @@
 # Fake id documents and currencies detection with MicroNIR
 
-Forensic detection of counterfeit id documents and currencies documents with MicroNIR. Master's thesis at the University of Lausanne
+Forensic detection of counterfeit id documents documents with MicroNIR. Master's thesis at the University of Lausanne
 
 This project is being carried out as part of the final exam of the University of Lausanne, with a view to obtaining the Master of Law in Legal issues,
 Crime and Security of lnformation Technologies
 
 ## Objectives
-The objective of the project is to explore the possibility to detect fake id documents et currencies papers with a infra-red spectrometer (MicroNIR). This forensic software analyses and detects an anomaly in the signal produced by the MicroNIR.
+The objective of the project is to explore the possibility to detect fake id documents papers with a infra-red spectrometer (MicroNIR). This forensic software analyses and detects an anomaly in the signal produced by the MicroNIR.
 
 ## forensic methodologies
 
