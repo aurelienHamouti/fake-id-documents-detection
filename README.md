@@ -9,6 +9,9 @@ Crime and Security of lnformation Technologies
 The objective of the project is to explore the possibility to detect fake id documents papers with a infra-red spectrometer (MicroNIR). This forensic software analyses and detects an anomaly in the signal produced by the MicroNIR.
 
 ## forensic methodologies
+The methodology applied during this study is derived from forensic science. The exploratory aspect is to be taken into account, because if the uses of near infrared spectrometers are widespread in several scientific fields, no study or report was found concerning an analysis of identity documents with this type of tool. 
+
+The method chosen to perform the document analyses was inspired by the ACE-V process originally used in fingerprint analysis and comparison (ENFSI, 2022). A simple and efficient method for comparing results was needed. This method has the advantage of clearly separating the different steps of the process while remaining easy to implement.
 
 ## Cautions
 
