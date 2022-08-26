@@ -14,8 +14,10 @@ The methodology applied during this study is derived from forensic science. The 
 The method chosen to perform the document analyses was inspired by the ACE-V process originally used in fingerprint analysis and comparison (ENFSI, 2022). A simple and efficient method for comparing results was needed. This method has the advantage of clearly separating the different steps of the process while remaining easy to implement.
 
 ## Cautions
+This is an academic work, the regulations of the University of Lausanne and the Swiss law apply
 
 ## Installation
+Work with Notebook 8.4.6 and Python 3.9.12
 
 ## User's manual
 
